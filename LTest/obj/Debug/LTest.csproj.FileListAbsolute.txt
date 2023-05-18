@@ -1,0 +1,12 @@
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\LTest.exe.config
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\LTest.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\LTest.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\SimpleImpersonation.dll
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\System.Security.Principal.Windows.dll
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\SimpleImpersonation.xml
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\bin\Debug\System.Security.Principal.Windows.xml
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\obj\Debug\LTest.csprojAssemblyReference.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\obj\Debug\LTest.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\obj\Debug\LTest.csproj.CopyComplete
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\obj\Debug\LTest.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\LTest\LTest\obj\Debug\LTest.pdb
